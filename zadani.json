@@ -1,0 +1,34 @@
+{
+ "upraveno": "2026-10-21",
+ "pozemky": {
+  "aktivni": true,
+  "kraje": ["Pardubický", "Královéhradecký"],
+  "plochaMin": 750,
+  "plochaMax": 2200,
+  "cenaMax": 10000000,
+  "minObyvatelMesta": 20000,
+  "maxKmOdMesta": 5,
+  "minSleva": 13,
+  "jenStavebni": true,
+  "bonusy": ["dvojdomky", "trojdomky", "povoleni", "site"],
+  "hledat": "",
+  "vyloucit": "orná půda, les, louka, zahrada bez možnosti stavby, chata, záplavové území",
+  "poznamka": "Primární zadání: stavební pozemky pro dvojdomky a trojdomky u větších měst."
+ },
+ "domy": {
+  "aktivni": false,
+  "kraje": ["Pardubický", "Královéhradecký"],
+  "plochaMin": 100, "plochaMax": 400, "cenaMax": 15000000,
+  "minObyvatelMesta": 20000, "maxKmOdMesta": 5, "minSleva": 13,
+  "bonusy": ["rekonstrukce", "tri_jednotky"],
+  "hledat": "", "vyloucit": "družstevní, dražba", "poznamka": ""
+ },
+ "byty": {
+  "aktivni": false,
+  "kraje": ["Pardubický", "Královéhradecký"],
+  "plochaMin": 30, "plochaMax": 76, "cenaMax": 6000000,
+  "minObyvatelMesta": 20000, "maxKmOdMesta": 0, "minSleva": 13,
+  "bonusy": ["rekonstrukce", "dispozice"],
+  "hledat": "", "vyloucit": "družstevní, dražba", "poznamka": ""
+ }
+}
