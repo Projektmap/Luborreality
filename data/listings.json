@@ -1,1 +1,710 @@
-[]
+[
+ {
+  "id": "cr-3784794",
+  "src": "ceskereality.cz",
+  "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/raby/prodej-stavebni-parcely-1-668-m2-3784794.html",
+  "alt": [],
+  "title": "Stavební pozemek 1 668 m² – Ráby (u Pardubic)",
+  "type": "pozemek",
+  "region": "Pardubický",
+  "obec": "Ráby",
+  "mesto": "Pardubice",
+  "kmOdMesta": 1.5,
+  "price": 6338400,
+  "area": 1668,
+  "ppm2": 3800,
+  "bench": null,
+  "benchN": 2,
+  "benchMin": null,
+  "benchMax": null,
+  "comps": [],
+  "discount": null,
+  "bench5": 6356,
+  "bench5N": 18,
+  "comps5": [
+   {
+    "t": "raby 1094 m²",
+    "ppm2": 6000,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/raby/prodej-stavebni-parcely-1-094-m2-3721142.html"
+   },
+   {
+    "t": "nemcice-pardubice 1350 m²",
+    "ppm2": 6712,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/nemcice-pardubice/prodej-stavebni-parcely-1-350-m2-3388648.html"
+   },
+   {
+    "t": "raby 1168 m²",
+    "ppm2": 5992,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/raby/prodej-stavebni-parcely-1-168-m2-3721150.html"
+   },
+   {
+    "t": "pardubice 350 m²",
+    "ppm2": 5671,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/pardubice/prodej-stavebni-parcely-350-m2-hurka-3918989.html"
+   },
+   {
+    "t": "sezemice 850 m²",
+    "ppm2": 5400,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/sezemice/prodej-stavebni-parcely-850-m2-3736673.html"
+   },
+   {
+    "t": "opatovice-nad-labem 796 m²",
+    "ppm2": 5339,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/opatovice-nad-labem/prodej-stavebni-parcely-796-m2-kasarenska-3819471.html"
+   },
+   {
+    "t": "sezemice 1679 m²",
+    "ppm2": 5000,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/sezemice/prodej-stavebni-parcely-1-679-m2-3863409.html"
+   },
+   {
+    "t": "borek-pardubice 1034 m²",
+    "ppm2": 4826,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/borek-pardubice/prodej-stavebni-parcely-1-034-m2-3897996.html"
+   },
+   {
+    "t": "spojil 893 m²",
+    "ppm2": 8947,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/spojil/prodej-stavebni-parcely-893-m2-okruzni-3824095.html"
+   },
+   {
+    "t": "sezemice 552 m²",
+    "ppm2": 3605,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/sezemice/prodej-stavebni-parcely-552-m2-3867685.html"
+   }
+  ],
+  "discount5": 0.402,
+  "score": 80,
+  "tags": [
+   "levne",
+   "dvojdomky",
+   "site"
+  ],
+  "why": "Největší parcela v nové zástavbě pod Kunětickou horou za 3 800 Kč/m² se zasíťováním (voda, kanalizace, elektřina); riziko: regulativy lokality mohou povolit jen 1 RD, sjezd ~25 m na náklady kupce.",
+  "firstSeen": "2026-10-21",
+  "lastSeen": "2026-10-21",
+  "priceHistory": [
+   {
+    "d": "2026-10-21",
+    "p": 6338400
+   }
+  ],
+  "active": true
+ },
+ {
+  "id": "cr-3922813",
+  "src": "ceskereality.cz",
+  "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/bezdekov-pardubice/prodej-stavebni-parcely-1-865-m2-3922813.html",
+  "alt": [],
+  "title": "Stavební pozemek 1 865 m² – Bezděkov (u Pardubic)",
+  "type": "pozemek",
+  "region": "Pardubický",
+  "obec": "Bezděkov",
+  "mesto": "Pardubice",
+  "kmOdMesta": 3.5,
+  "price": 4849000,
+  "area": 1865,
+  "ppm2": 2600,
+  "bench": null,
+  "benchN": 3,
+  "benchMin": null,
+  "benchMax": null,
+  "comps": [],
+  "discount": null,
+  "bench5": 5647,
+  "bench5N": 9,
+  "comps5": [
+   {
+    "t": "dubany 1213 m²",
+    "ppm2": 5647,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/dubany/prodej-stavebni-parcely-1-213-m2-3907962.html"
+   },
+   {
+    "t": "pardubice 350 m²",
+    "ppm2": 5671,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/pardubice/prodej-stavebni-parcely-350-m2-hurka-3918989.html"
+   },
+   {
+    "t": "bezdekov-pardubice 6668 m²",
+    "ppm2": 3990,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/bezdekov-pardubice/prodej-stavebni-parcely-6-668-m2-3709005.html"
+   },
+   {
+    "t": "bezdekov-pardubice 600 m²",
+    "ppm2": 3990,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/bezdekov-pardubice/prodej-stavebni-parcely-600-m2-3755425.html"
+   },
+   {
+    "t": "bezdekov-pardubice 600 m²",
+    "ppm2": 3990,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/bezdekov-pardubice/prodej-stavebni-parcely-600-m2-3921704.html"
+   },
+   {
+    "t": "pardubice 1740 m²",
+    "ppm2": 2170,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/pardubice/prodej-stavebni-parcely-1-740-m2-3821616.html"
+   },
+   {
+    "t": "pardubice 320 m²",
+    "ppm2": 12469,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/pardubice/prodej-stavebni-parcely-320-m2-radiomechaniku-3922043.html"
+   },
+   {
+    "t": "pardubice 898 m²",
+    "ppm2": 15000,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/pardubice/prodej-stavebni-parcely-898-m2-na-sadkach-3859503.html"
+   },
+   {
+    "t": "pardubice 1136 m²",
+    "ppm2": 21919,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/pardubice/prodej-stavebni-parcely-1-136-m2-k-visnovce-3790166.html"
+   }
+  ],
+  "discount5": 0.54,
+  "score": 80,
+  "tags": [
+   "levne",
+   "dvojdomky",
+   "site"
+  ],
+  "why": "Okrajová parcela 2 600 Kč/m² s předjednaným dělením na 2 části, elektřina na hranici a vodovod; riziko: chybí info o příjezdu, kanalizaci a ÚP regulativu.",
+  "firstSeen": "2026-10-21",
+  "lastSeen": "2026-10-21",
+  "priceHistory": [
+   {
+    "d": "2026-10-21",
+    "p": 4849000
+   }
+  ],
+  "active": true
+ },
+ {
+  "id": "cr-3769321",
+  "src": "ceskereality.cz",
+  "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/hradec-kralove/prodej-stavebni-parcely-1-328-m2-3769321.html",
+  "alt": [],
+  "title": "Stavební pozemek 1 328 m² – Hradec Králové, Rusek",
+  "type": "pozemek",
+  "region": "Královéhradecký",
+  "obec": "Hradec Králové",
+  "mesto": "Hradec Králové",
+  "kmOdMesta": 0,
+  "price": 6490000,
+  "area": 1328,
+  "ppm2": 4887,
+  "bench": 8400,
+  "benchN": 13,
+  "benchMin": 4000,
+  "benchMax": 13000,
+  "comps": [
+   {
+    "t": "hradec-kralove 800 m²",
+    "ppm2": 4000,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/hradec-kralove/prodej-stavebni-parcely-800-m2-prokopa-holeho-3909720.html"
+   },
+   {
+    "t": "hradec-kralove 2054 m²",
+    "ppm2": 5794,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/hradec-kralove/prodej-stavebni-parcely-2-054-m2-na-dubech-3880498.html"
+   },
+   {
+    "t": "hradec-kralove 1384 m²",
+    "ppm2": 6000,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/hradec-kralove/prodej-stavebni-parcely-1-384-m2-3579755.html"
+   },
+   {
+    "t": "hradec-kralove 775 m²",
+    "ppm2": 7729,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/hradec-kralove/prodej-stavebni-parcely-775-m2-3902366.html"
+   },
+   {
+    "t": "hradec-kralove 767 m²",
+    "ppm2": 7757,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/hradec-kralove/prodej-stavebni-parcely-767-m2-3827231.html"
+   },
+   {
+    "t": "hradec-kralove 768 m²",
+    "ppm2": 8008,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/hradec-kralove/prodej-stavebni-parcely-768-m2-3827114.html"
+   },
+   {
+    "t": "hradec-kralove 550 m²",
+    "ppm2": 8400,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/hradec-kralove/prodej-stavebni-parcely-550-m2-pardubicka-3909635.html"
+   },
+   {
+    "t": "hradec-kralove 2195 m²",
+    "ppm2": 9999,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/hradec-kralove/prodej-stavebni-parcely-2-195-m2-zamecek-3873116.html"
+   },
+   {
+    "t": "hradec-kralove 782 m²",
+    "ppm2": 10000,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/hradec-kralove/prodej-stavebni-parcely-782-m2-3910601.html"
+   },
+   {
+    "t": "hradec-kralove 820 m²",
+    "ppm2": 10000,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/hradec-kralove/prodej-stavebni-parcely-820-m2-cihlarska-3910600.html"
+   }
+  ],
+  "discount": 0.418,
+  "score": 80,
+  "tags": [
+   "levne",
+   "dvojdomky",
+   "site"
+  ],
+  "why": "Pozemek v Ruseku za ~4 900 Kč/m² (medián HK ~8 400), plyn a elektřina na hranici; riziko: dělení na 2 RD a voda/kanalizace nepotvrzeny, nutno ověřit ÚP.",
+  "firstSeen": "2026-10-21",
+  "lastSeen": "2026-10-21",
+  "priceHistory": [
+   {
+    "d": "2026-10-21",
+    "p": 6490000
+   }
+  ],
+  "active": true
+ },
+ {
+  "id": "cr-3821616",
+  "src": "ceskereality.cz",
+  "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/pardubice/prodej-stavebni-parcely-1-740-m2-3821616.html",
+  "alt": [],
+  "title": "Stavební pozemek 1 740 m² – Pardubice, Hostovice",
+  "type": "pozemek",
+  "region": "Pardubický",
+  "obec": "Pardubice",
+  "mesto": "Pardubice",
+  "kmOdMesta": 0,
+  "price": 3775800,
+  "area": 1740,
+  "ppm2": 2170,
+  "bench": null,
+  "benchN": 4,
+  "benchMin": null,
+  "benchMax": null,
+  "comps": [],
+  "discount": null,
+  "bench5": 5832,
+  "bench5N": 26,
+  "comps5": [
+   {
+    "t": "raby 1168 m²",
+    "ppm2": 5992,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/raby/prodej-stavebni-parcely-1-168-m2-3721150.html"
+   },
+   {
+    "t": "pardubice 350 m²",
+    "ppm2": 5671,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/pardubice/prodej-stavebni-parcely-350-m2-hurka-3918989.html"
+   },
+   {
+    "t": "raby 1094 m²",
+    "ppm2": 6000,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/raby/prodej-stavebni-parcely-1-094-m2-3721142.html"
+   },
+   {
+    "t": "dubany 1213 m²",
+    "ppm2": 5647,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/dubany/prodej-stavebni-parcely-1-213-m2-3907962.html"
+   },
+   {
+    "t": "mikulovice-pardubice 1100 m²",
+    "ppm2": 5409,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/mikulovice-pardubice/prodej-stavebni-parcely-1-100-m2-v-zahradach-3918233.html"
+   },
+   {
+    "t": "sezemice 850 m²",
+    "ppm2": 5400,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/sezemice/prodej-stavebni-parcely-850-m2-3736673.html"
+   },
+   {
+    "t": "opatovice-nad-labem 796 m²",
+    "ppm2": 5339,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/opatovice-nad-labem/prodej-stavebni-parcely-796-m2-kasarenska-3819471.html"
+   },
+   {
+    "t": "sezemice 1679 m²",
+    "ppm2": 5000,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/sezemice/prodej-stavebni-parcely-1-679-m2-3863409.html"
+   },
+   {
+    "t": "nemcice-pardubice 1350 m²",
+    "ppm2": 6712,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/nemcice-pardubice/prodej-stavebni-parcely-1-350-m2-3388648.html"
+   },
+   {
+    "t": "borek-pardubice 1034 m²",
+    "ppm2": 4826,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/borek-pardubice/prodej-stavebni-parcely-1-034-m2-3897996.html"
+   }
+  ],
+  "discount5": 0.628,
+  "score": 70,
+  "tags": [
+   "levne",
+   "dvojdomky"
+  ],
+  "why": "Zastavitelná plocha v Hostovicích za 2 170 Kč/m², předběžné stanovisko SÚ připouští 1–2 RD a dělení, sjezd ze silnice II/355; riziko: jen elektřina potvrzena, podmínky územní studie Hostovice-jih.",
+  "firstSeen": "2026-10-21",
+  "lastSeen": "2026-10-21",
+  "priceHistory": [
+   {
+    "d": "2026-10-21",
+    "p": 3775800
+   }
+  ],
+  "active": true
+ },
+ {
+  "id": "cr-3843186",
+  "src": "ceskereality.cz",
+  "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/mlade-buky/prodej-stavebni-parcely-1-575-m2-3843186.html",
+  "alt": [],
+  "title": "Stavební pozemek 1 575 m² – Mladé Buky, Hertvíkovice",
+  "type": "pozemek",
+  "region": "Královéhradecký",
+  "obec": "Mladé Buky",
+  "mesto": "Trutnov",
+  "kmOdMesta": 3,
+  "price": 2126000,
+  "area": 1575,
+  "ppm2": 1350,
+  "bench": null,
+  "benchN": 0,
+  "benchMin": null,
+  "benchMax": null,
+  "comps": [],
+  "discount": null,
+  "bench5": 1800,
+  "bench5N": 15,
+  "comps5": [
+   {
+    "t": "trutnov 1948 m²",
+    "ppm2": 1800,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/trutnov/prodej-stavebni-parcely-1-948-m2-3910682.html"
+   },
+   {
+    "t": "trutnov 2383 m²",
+    "ppm2": 1500,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/trutnov/prodej-stavebni-parcely-2-383-m2-3916097.html"
+   },
+   {
+    "t": "trutnov 1524 m²",
+    "ppm2": 2100,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/trutnov/prodej-stavebni-parcely-1-524-m2-3587921.html"
+   },
+   {
+    "t": "trutnov 3326 m²",
+    "ppm2": 1490,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/trutnov/prodej-stavebni-parcely-3-326-m2-vysoka-stran-2936490.html"
+   },
+   {
+    "t": "trutnov 20139 m²",
+    "ppm2": 1490,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/trutnov/prodej-stavebni-parcely-20-139-m2-3464189.html"
+   },
+   {
+    "t": "trutnov 1927 m²",
+    "ppm2": 2330,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/trutnov/prodej-stavebni-parcely-1-927-m2-3441126.html"
+   },
+   {
+    "t": "trutnov 2394 m²",
+    "ppm2": 1250,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/trutnov/prodej-stavebni-parcely-2-394-m2-3914939.html"
+   },
+   {
+    "t": "trutnov 2437 m²",
+    "ppm2": 2421,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/trutnov/prodej-stavebni-parcely-2-437-m2-za-zbrojnici-3741633.html"
+   },
+   {
+    "t": "svoboda-nad-upou 947 m²",
+    "ppm2": 940,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/svoboda-nad-upou/prodej-stavebni-parcely-947-m2-3700220.html"
+   },
+   {
+    "t": "trutnov 2372 m²",
+    "ppm2": 843,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/trutnov/prodej-stavebni-parcely-2-372-m2-3904385.html"
+   }
+  ],
+  "discount5": 0.25,
+  "score": 65,
+  "tags": [
+   "levne",
+   "trojdomky"
+  ],
+  "why": "Plocha BV u silnice I/14 za 1 350 Kč/m² (medián okolí ~1 800); riziko: 6 parcel vč. TTP a drobných dílů, voda a kanalizace se musí dovést, cena bez provize.",
+  "firstSeen": "2026-10-21",
+  "lastSeen": "2026-10-21",
+  "priceHistory": [
+   {
+    "d": "2026-10-21",
+    "p": 2126000
+   }
+  ],
+  "active": true
+ },
+ {
+  "id": "cr-3909720",
+  "src": "ceskereality.cz",
+  "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/hradec-kralove/prodej-stavebni-parcely-800-m2-prokopa-holeho-3909720.html",
+  "alt": [],
+  "title": "Stavební pozemek 800 m² – Hradec Králové, Pražské Předměstí",
+  "type": "pozemek",
+  "region": "Královéhradecký",
+  "obec": "Hradec Králové",
+  "mesto": "Hradec Králové",
+  "kmOdMesta": 0,
+  "price": 3200000,
+  "area": 800,
+  "ppm2": 4000,
+  "bench": 8400,
+  "benchN": 13,
+  "benchMin": 4887,
+  "benchMax": 13000,
+  "comps": [
+   {
+    "t": "hradec-kralove 1328 m²",
+    "ppm2": 4887,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/hradec-kralove/prodej-stavebni-parcely-1-328-m2-3769321.html"
+   },
+   {
+    "t": "hradec-kralove 2054 m²",
+    "ppm2": 5794,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/hradec-kralove/prodej-stavebni-parcely-2-054-m2-na-dubech-3880498.html"
+   },
+   {
+    "t": "hradec-kralove 1384 m²",
+    "ppm2": 6000,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/hradec-kralove/prodej-stavebni-parcely-1-384-m2-3579755.html"
+   },
+   {
+    "t": "hradec-kralove 775 m²",
+    "ppm2": 7729,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/hradec-kralove/prodej-stavebni-parcely-775-m2-3902366.html"
+   },
+   {
+    "t": "hradec-kralove 767 m²",
+    "ppm2": 7757,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/hradec-kralove/prodej-stavebni-parcely-767-m2-3827231.html"
+   },
+   {
+    "t": "hradec-kralove 768 m²",
+    "ppm2": 8008,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/hradec-kralove/prodej-stavebni-parcely-768-m2-3827114.html"
+   },
+   {
+    "t": "hradec-kralove 550 m²",
+    "ppm2": 8400,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/hradec-kralove/prodej-stavebni-parcely-550-m2-pardubicka-3909635.html"
+   },
+   {
+    "t": "hradec-kralove 2195 m²",
+    "ppm2": 9999,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/hradec-kralove/prodej-stavebni-parcely-2-195-m2-zamecek-3873116.html"
+   },
+   {
+    "t": "hradec-kralove 782 m²",
+    "ppm2": 10000,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/hradec-kralove/prodej-stavebni-parcely-782-m2-3910601.html"
+   },
+   {
+    "t": "hradec-kralove 820 m²",
+    "ppm2": 10000,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/hradec-kralove/prodej-stavebni-parcely-820-m2-cihlarska-3910600.html"
+   }
+  ],
+  "discount": 0.524,
+  "score": 25,
+  "tags": [
+   "levne"
+  ],
+  "why": "Pozemek pro RD u Auparku za 4 000 Kč/m², polovina mediánu HK; riziko: u železnice (ochranné pásmo, modernizace trati), voda/kanalizace neřešeny, jen 1 RD.",
+  "firstSeen": "2026-10-21",
+  "lastSeen": "2026-10-21",
+  "priceHistory": [
+   {
+    "d": "2026-10-21",
+    "p": 3200000
+   }
+  ],
+  "active": true
+ },
+ {
+  "id": "cr-3554925",
+  "src": "ceskereality.cz",
+  "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/trutnov/prodej-stavebni-parcely-2-091-m2-3554925.html",
+  "alt": [],
+  "title": "Stavební pozemek 2 091 m² – Trutnov, Libeč",
+  "type": "pozemek",
+  "region": "Královéhradecký",
+  "obec": "Trutnov",
+  "mesto": "Trutnov",
+  "kmOdMesta": 0,
+  "price": 500000,
+  "area": 2091,
+  "ppm2": 239,
+  "bench": 1950,
+  "benchN": 12,
+  "benchMin": 843,
+  "benchMax": 5441,
+  "comps": [
+   {
+    "t": "trutnov 2372 m²",
+    "ppm2": 843,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/trutnov/prodej-stavebni-parcely-2-372-m2-3904385.html"
+   },
+   {
+    "t": "trutnov 2394 m²",
+    "ppm2": 1250,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/trutnov/prodej-stavebni-parcely-2-394-m2-3914939.html"
+   },
+   {
+    "t": "trutnov 3326 m²",
+    "ppm2": 1490,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/trutnov/prodej-stavebni-parcely-3-326-m2-vysoka-stran-2936490.html"
+   },
+   {
+    "t": "trutnov 20139 m²",
+    "ppm2": 1490,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/trutnov/prodej-stavebni-parcely-20-139-m2-3464189.html"
+   },
+   {
+    "t": "trutnov 2383 m²",
+    "ppm2": 1500,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/trutnov/prodej-stavebni-parcely-2-383-m2-3916097.html"
+   },
+   {
+    "t": "trutnov 1948 m²",
+    "ppm2": 1800,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/trutnov/prodej-stavebni-parcely-1-948-m2-3910682.html"
+   },
+   {
+    "t": "trutnov 1524 m²",
+    "ppm2": 2100,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/trutnov/prodej-stavebni-parcely-1-524-m2-3587921.html"
+   },
+   {
+    "t": "trutnov 1927 m²",
+    "ppm2": 2330,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/trutnov/prodej-stavebni-parcely-1-927-m2-3441126.html"
+   },
+   {
+    "t": "trutnov 2437 m²",
+    "ppm2": 2421,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/trutnov/prodej-stavebni-parcely-2-437-m2-za-zbrojnici-3741633.html"
+   },
+   {
+    "t": "trutnov 1894 m²",
+    "ppm2": 3100,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/trutnov/prodej-stavebni-parcely-1-894-m2-3797579.html"
+   }
+  ],
+  "discount": 0.877,
+  "score": 25,
+  "tags": [
+   "levne"
+  ],
+  "why": "Plocha BV v Libči za 239 Kč/m² – extrémně levně, ale bez příjezdové cesty, v sesuvném území (nutný geologický průzkum) a bez plynu; spíš spekulace.",
+  "firstSeen": "2026-10-21",
+  "lastSeen": "2026-10-21",
+  "priceHistory": [
+   {
+    "d": "2026-10-21",
+    "p": 500000
+   }
+  ],
+  "active": true
+ },
+ {
+  "id": "cr-3579755",
+  "src": "ceskereality.cz",
+  "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/hradec-kralove/prodej-stavebni-parcely-1-384-m2-3579755.html",
+  "alt": [],
+  "title": "Stavební pozemek 1 384 m² – Hradec Králové, Plotiště nad Labem",
+  "type": "pozemek",
+  "region": "Královéhradecký",
+  "obec": "Hradec Králové",
+  "mesto": "Hradec Králové",
+  "kmOdMesta": 0,
+  "price": 8304000,
+  "area": 1384,
+  "ppm2": 6000,
+  "bench": 8400,
+  "benchN": 13,
+  "benchMin": 4000,
+  "benchMax": 13000,
+  "comps": [
+   {
+    "t": "hradec-kralove 800 m²",
+    "ppm2": 4000,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/hradec-kralove/prodej-stavebni-parcely-800-m2-prokopa-holeho-3909720.html"
+   },
+   {
+    "t": "hradec-kralove 1328 m²",
+    "ppm2": 4887,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/hradec-kralove/prodej-stavebni-parcely-1-328-m2-3769321.html"
+   },
+   {
+    "t": "hradec-kralove 2054 m²",
+    "ppm2": 5794,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/hradec-kralove/prodej-stavebni-parcely-2-054-m2-na-dubech-3880498.html"
+   },
+   {
+    "t": "hradec-kralove 775 m²",
+    "ppm2": 7729,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/hradec-kralove/prodej-stavebni-parcely-775-m2-3902366.html"
+   },
+   {
+    "t": "hradec-kralove 767 m²",
+    "ppm2": 7757,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/hradec-kralove/prodej-stavebni-parcely-767-m2-3827231.html"
+   },
+   {
+    "t": "hradec-kralove 768 m²",
+    "ppm2": 8008,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/hradec-kralove/prodej-stavebni-parcely-768-m2-3827114.html"
+   },
+   {
+    "t": "hradec-kralove 550 m²",
+    "ppm2": 8400,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/hradec-kralove/prodej-stavebni-parcely-550-m2-pardubicka-3909635.html"
+   },
+   {
+    "t": "hradec-kralove 2195 m²",
+    "ppm2": 9999,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/hradec-kralove/prodej-stavebni-parcely-2-195-m2-zamecek-3873116.html"
+   },
+   {
+    "t": "hradec-kralove 782 m²",
+    "ppm2": 10000,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/hradec-kralove/prodej-stavebni-parcely-782-m2-3910601.html"
+   },
+   {
+    "t": "hradec-kralove 820 m²",
+    "ppm2": 10000,
+    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/hradec-kralove/prodej-stavebni-parcely-820-m2-cihlarska-3910600.html"
+   }
+  ],
+  "discount": 0.286,
+  "score": 24,
+  "tags": [
+   "levne",
+   "site"
+  ],
+  "why": "Plotiště za 6 000 Kč/m² se sítěmi na hranici (plyn, elektřina, kanalizace); riziko: zastavitelná jen přední část pozemku, tj. reálně 1 RD.",
+  "firstSeen": "2026-10-21",
+  "lastSeen": "2026-10-21",
+  "priceHistory": [
+   {
+    "d": "2026-10-21",
+    "p": 8304000
+   }
+  ],
+  "active": true
+ }
+]

@@ -1,1 +1,15 @@
-{"aktualizace":null,"souhrn":"Čeká na první denní aktualizaci v 7:00.","zdroje":[],"pocty":{}}
+{
+ "aktualizace": "2026-10-21T18:57:46+02:00",
+ "souhrn": "8 nových stavebních pozemků; nejlepší: Stavební pozemek 1 668 m² – Ráby (u Pardubic) za 6 338 400 Kč (3800 Kč/m², sleva 40 %).",
+ "zdroje": [
+  "ceskereality.cz",
+  "remax-czech.cz",
+  "realitymix.cz",
+  "bezrealitky.cz"
+ ],
+ "pocty": {
+  "pozemek": 8,
+  "dum": 0,
+  "byt": 0
+ }
+}
