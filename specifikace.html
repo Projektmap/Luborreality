@@ -1,0 +1,42 @@
+<!doctype html><html lang="cs"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Lubor Reality · zadání pro Claude</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nunito:wght@700;800&family=Nunito+Sans:wght@400;600;700&display=swap">
+<style>
+:root{--orange:#f08a24;--green:#6fb640;--green-dark:#4f8f2a;--yellow:#f2c41a;--ink:#3b3b3b;--muted:#7a7a7a;--line:#e8e6e1;--bg:#faf9f6;--card:#fff;--code:#f4f2ec;
+  --f-head:"Nunito","Segoe UI",system-ui,sans-serif;--f-body:"Nunito Sans","Segoe UI",system-ui,sans-serif}
+@media (prefers-color-scheme: dark){:root{--ink:#eeeeea;--muted:#a9a9a3;--line:#34342f;--bg:#171715;--card:#212120;--code:#2a2a27;color-scheme:dark}}
+*{box-sizing:border-box}html,body{margin:0}
+body{background:var(--bg);color:var(--ink);font:16px/1.6 var(--f-body)}
+.wrap{max-width:860px;margin:0 auto;padding:0 max(16px,env(safe-area-inset-left,0px)) 60px max(16px,env(safe-area-inset-right,0px))}
+header{display:flex;flex-wrap:wrap;gap:12px;align-items:center;justify-content:space-between;padding:18px 0;border-bottom:3px solid var(--orange);margin-bottom:22px}
+header a.back{font:700 15px var(--f-head);color:var(--ink);text-decoration:none}
+.act{display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.btn{font:800 14.5px var(--f-head);padding:10px 16px;border-radius:10px;border:0;background:var(--green);color:#fff;cursor:pointer;text-decoration:none}
+.btn:hover{background:var(--green-dark)}
+.btn.ghost{background:transparent;color:var(--green-dark);border:1.5px solid var(--green)}
+#msg{font-size:14px;color:var(--muted)}
+.doc{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:8px 26px 26px}
+.doc h1,.doc h2,.doc h3{font-family:var(--f-head);line-height:1.2}
+.doc h1{font-size:30px;margin-top:20px}
+.doc h2{font-size:22px;margin-top:30px;padding-top:14px;border-top:1px solid var(--line)}
+.doc h2::before{content:"";display:inline-block;width:10px;height:10px;border-radius:2px 8px 2px 8px;background:var(--orange);margin-right:10px;vertical-align:2px}
+.doc h3{font-size:18px;margin-top:20px}
+.doc code{background:var(--code);border-radius:5px;padding:1px 5px;font-size:.92em}
+.doc pre{background:var(--code);border-radius:10px;padding:12px 14px;overflow-x:auto;font-size:13px;line-height:1.45}
+.doc pre code{background:none;padding:0}
+.doc li{margin:3px 0}
+@media (max-width:520px){.doc{padding:4px 16px 20px}}
+</style></head><body><div class="wrap">
+<header><a class="back" href="/">← Lubor Reality</a>
+  <div class="act"><button class="btn" id="copy">Kopírovat celé zadání</button><a class="btn ghost" href="specifikace.md" download>Stáhnout .md</a><span id="msg"></span></div></header>
+<article class="doc" id="doc"><p>Načítám zadání…</p></article>
+</div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script>
+<script>
+let md="";
+fetch("specifikace.md",{cache:"no-cache"}).then(r=>r.text()).then(t=>{md=t;const d=document.getElementById("doc");
+  d.innerHTML=window.marked?marked.parse(t):"<pre></pre>";if(!window.marked)d.querySelector("pre").textContent=t;})
+ .catch(()=>{document.getElementById("doc").innerHTML="<p>Zadání se nepodařilo načíst.</p>"});
+document.getElementById("copy").addEventListener("click",async()=>{const m=document.getElementById("msg");
+  try{await navigator.clipboard.writeText(md);m.textContent="Zkopírováno. Vložte ho do nové konverzace s Claude."}catch(e){m.textContent="Kopírování nejde, použijte Stáhnout .md."}});
+</script></body></html>
