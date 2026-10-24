@@ -82,7 +82,7 @@
   ],
   "why": "Největší parcela v nové zástavbě pod Kunětickou horou za 3 800 Kč/m² se zasíťováním (voda, kanalizace, elektřina); riziko: regulativy lokality mohou povolit jen 1 RD, sjezd ~25 m na náklady kupce.",
   "firstSeen": "2026-10-21",
-  "lastSeen": "2026-10-23",
+  "lastSeen": "2026-10-24",
   "priceHistory": [
    {
     "d": "2026-10-21",
@@ -169,7 +169,7 @@
   ],
   "why": "Okrajová parcela 2 600 Kč/m² s předjednaným dělením na 2 části, elektřina na hranici a vodovod; riziko: chybí info o příjezdu, kanalizaci a ÚP regulativu.",
   "firstSeen": "2026-10-21",
-  "lastSeen": "2026-10-21",
+  "lastSeen": "2026-10-24",
   "priceHistory": [
    {
     "d": "2026-10-21",
@@ -257,7 +257,7 @@
   ],
   "why": "Pozemek v Ruseku za ~4 900 Kč/m² (medián HK ~8 200), plyn a elektřina na hranici; riziko: dělení na 2 RD a voda/kanalizace nepotvrzeny, nutno ověřit ÚP.",
   "firstSeen": "2026-10-21",
-  "lastSeen": "2026-10-23",
+  "lastSeen": "2026-10-24",
   "priceHistory": [
    {
     "d": "2026-10-21",
@@ -348,7 +348,7 @@
   ],
   "why": "Zastavitelná plocha v Hostovicích za 2 170 Kč/m², předběžné stanovisko SÚ připouští 1–2 RD a dělení, sjezd ze silnice II/355; riziko: jen elektřina potvrzena, podmínky územní studie Hostovice-jih.",
   "firstSeen": "2026-10-21",
-  "lastSeen": "2026-10-21",
+  "lastSeen": "2026-10-24",
   "priceHistory": [
    {
     "d": "2026-10-21",
@@ -439,7 +439,7 @@
   ],
   "why": "Plocha BV u silnice I/14 za 1 350 Kč/m² (medián okolí ~1 800); riziko: 6 parcel vč. TTP a drobných dílů, voda a kanalizace se musí dovést, cena bez provize.",
   "firstSeen": "2026-10-21",
-  "lastSeen": "2026-10-21",
+  "lastSeen": "2026-10-24",
   "priceHistory": [
    {
     "d": "2026-10-21",
@@ -525,7 +525,7 @@
   ],
   "why": "Pozemek pro RD u Auparku za 4 000 Kč/m², polovina mediánu HK; riziko: u železnice (ochranné pásmo, modernizace trati), voda/kanalizace neřešeny, jen 1 RD.",
   "firstSeen": "2026-10-21",
-  "lastSeen": "2026-10-23",
+  "lastSeen": "2026-10-24",
   "priceHistory": [
    {
     "d": "2026-10-21",
@@ -548,8 +548,8 @@
   "price": 500000,
   "area": 2091,
   "ppm2": 239,
-  "bench": 1950,
-  "benchN": 12,
+  "bench": 1800,
+  "benchN": 13,
   "benchMin": 843,
   "benchMax": 3336,
   "comps": [
@@ -604,14 +604,14 @@
     "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/trutnov/prodej-stavebni-parcely-1-894-m2-3797579.html"
    }
   ],
-  "discount": 0.877,
+  "discount": 0.867,
   "score": 25,
   "tags": [
    "levne"
   ],
   "why": "Plocha BV v Libči za 239 Kč/m² – extrémně levně, ale bez příjezdové cesty, v sesuvném území (nutný geologický průzkum) a bez plynu; spíš spekulace.",
   "firstSeen": "2026-10-21",
-  "lastSeen": "2026-10-23",
+  "lastSeen": "2026-10-24",
   "priceHistory": [
    {
     "d": "2026-10-21",
@@ -698,7 +698,7 @@
   ],
   "why": "Plotiště za 6 000 Kč/m² se sítěmi na hranici (plyn, elektřina, kanalizace); riziko: zastavitelná jen přední část pozemku, tj. reálně 1 RD.",
   "firstSeen": "2026-10-21",
-  "lastSeen": "2026-10-23",
+  "lastSeen": "2026-10-24",
   "priceHistory": [
    {
     "d": "2026-10-21",
