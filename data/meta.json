@@ -1,13 +1,14 @@
 {
- "aktualizace": "2026-10-24T07:28:25+02:00",
- "souhrn": "Žádné nové stavební pozemky splňující zadání; všech 8 sledovaných nabídek je stále aktivních, nejlepší zůstává Stavební pozemek 1 668 m² – Ráby (u Pardubic) za 6 338 400 Kč (3 800 Kč/m², sleva 40 % vs. okolí 5 km).",
+ "aktualizace": "2026-10-26T07:31:47+01:00",
+ "souhrn": "2 nové stavební pozemky v Sezemicích u Pardubic (RE/MAX, ~2 600–2 700 Kč/m², sleva ~50 % vs. medián okolí 5 km 5 400 Kč/m²); nejvýše zůstávají Bezděkov a Hradec Králové-Rusek se skóre 80.",
  "zdroje": [
   "ceskereality.cz",
+  "realitymix.cz",
   "realingo.cz",
-  "realitymix.cz"
+  "remax-czech.cz"
  ],
  "pocty": {
-  "pozemek": 8,
+  "pozemek": 10,
   "dum": 0,
   "byt": 0
  }
