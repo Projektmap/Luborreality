@@ -1,14 +1,13 @@
 {
- "aktualizace": "2026-10-26T07:31:47+01:00",
- "souhrn": "2 nové stavební pozemky v Sezemicích u Pardubic (RE/MAX, ~2 600–2 700 Kč/m², sleva ~50 % vs. medián okolí 5 km 5 400 Kč/m²); nejvýše zůstávají Bezděkov a Hradec Králové-Rusek se skóre 80.",
+ "aktualizace": "2026-10-28T07:25:00+01:00",
+ "souhrn": "1 nový stavební pozemek v Pardubicích-Lánech na Důlku (1 340 m², ~3 950 Kč/m², sleva ~53 % vs. medián města 8 333 Kč/m²); nejvýše zůstávají Bezděkov a Hradec Králové-Rusek se skóre 80.",
  "zdroje": [
   "ceskereality.cz",
-  "realitymix.cz",
   "realingo.cz",
   "remax-czech.cz"
  ],
  "pocty": {
-  "pozemek": 10,
+  "pozemek": 11,
   "dum": 0,
   "byt": 0
  }
