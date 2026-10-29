@@ -77,7 +77,7 @@
   ],
   "why": "Okrajová parcela 2 600 Kč/m² s předjednaným dělením na 2 části, elektřina na hranici a vodovod; riziko: chybí info o příjezdu, kanalizaci a ÚP regulativu.",
   "firstSeen": "2026-10-21",
-  "lastSeen": "2026-10-28",
+  "lastSeen": "2026-10-29",
   "priceHistory": [
    {
     "d": "2026-10-21",
@@ -165,7 +165,7 @@
   ],
   "why": "Pozemek v Ruseku za ~4 900 Kč/m² (medián HK ~8 200), plyn a elektřina na hranici; riziko: dělení na 2 RD a voda/kanalizace nepotvrzeny, nutno ověřit ÚP.",
   "firstSeen": "2026-10-21",
-  "lastSeen": "2026-10-28",
+  "lastSeen": "2026-10-29",
   "priceHistory": [
    {
     "d": "2026-10-21",
@@ -261,7 +261,7 @@
   ],
   "why": "Největší parcela v nové zástavbě pod Kunětickou horou za 3 800 Kč/m² se zasíťováním (voda, kanalizace, elektřina); riziko: regulativy lokality mohou povolit jen 1 RD, sjezd ~25 m na náklady kupce.",
   "firstSeen": "2026-10-21",
-  "lastSeen": "2026-10-28",
+  "lastSeen": "2026-10-29",
   "priceHistory": [
    {
     "d": "2026-10-21",
@@ -463,7 +463,7 @@
   ],
   "why": "Stavební parcela přímo v Pardubicích (Lány na Důlku) za ~3 950 Kč/m², zhruba polovina mediánu města; sítě na hranici; rizika: ÚP plocha SK (smíšená komerční), příjezd a dělitelnost neuvedeny.",
   "firstSeen": "2026-10-28",
-  "lastSeen": "2026-10-28",
+  "lastSeen": "2026-10-29",
   "priceHistory": [
    {
     "d": "2026-10-28",
@@ -599,7 +599,7 @@
   ],
   "why": "Parcela v Sezemicích hned u Pardubic za ~2 600–2 700 Kč/m², zhruba poloviční cena proti okolí; riziko: detail inzerátu se nepodařilo ověřit (sítě, příjezd, záplavy u Loučné), obdobná parcela 1 150 m² ve Veské na ceskereality.cz byla stažena.",
   "firstSeen": "2026-10-26",
-  "lastSeen": "2026-10-28",
+  "lastSeen": "2026-10-29",
   "priceHistory": [
    {
     "d": "2026-10-26",
@@ -684,7 +684,7 @@
   ],
   "why": "Parcela v Sezemicích hned u Pardubic za ~2 600–2 700 Kč/m², zhruba poloviční cena proti okolí; riziko: detail inzerátu se nepodařilo ověřit (sítě, příjezd, záplavy u Loučné), obdobná parcela 1 150 m² ve Veské na ceskereality.cz byla stažena.",
   "firstSeen": "2026-10-26",
-  "lastSeen": "2026-10-28",
+  "lastSeen": "2026-10-29",
   "priceHistory": [
    {
     "d": "2026-10-26",
@@ -770,7 +770,7 @@
   ],
   "why": "Pozemek pro RD u Auparku za 4 000 Kč/m², polovina mediánu HK; riziko: u železnice (ochranné pásmo, modernizace trati), voda/kanalizace neřešeny, jen 1 RD.",
   "firstSeen": "2026-10-21",
-  "lastSeen": "2026-10-28",
+  "lastSeen": "2026-10-29",
   "priceHistory": [
    {
     "d": "2026-10-21",
@@ -797,70 +797,70 @@
   "price": 500000,
   "area": 2091,
   "ppm2": 239,
-  "bench": 1950,
-  "benchN": 12,
+  "bench": 1800,
+  "benchN": 13,
   "benchMin": 843,
   "benchMax": 3336,
   "comps": [
    {
-    "t": "Bohuslavice 2372 m²",
-    "ppm2": 843,
-    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/trutnov/prodej-stavebni-parcely-2-372-m2-3904385.html"
-   },
-   {
-    "t": "Vnitřní Město 2394 m²",
-    "ppm2": 1250,
-    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/trutnov/prodej-stavebni-parcely-2-394-m2-3914939.html"
-   },
-   {
-    "t": "Poříčí 3326 m²",
-    "ppm2": 1490,
-    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/trutnov/prodej-stavebni-parcely-3-326-m2-vysoka-stran-2936490.html"
-   },
-   {
-    "t": "Libeč 20139 m²",
-    "ppm2": 1490,
-    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/trutnov/prodej-stavebni-parcely-20-139-m2-3464189.html"
-   },
-   {
-    "t": "Vnitřní Město 2383 m²",
-    "ppm2": 1500,
-    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/trutnov/prodej-stavebni-parcely-2-383-m2-3916097.html"
-   },
-   {
-    "t": "Bohuslavice 1948 m²",
-    "ppm2": 1800,
-    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/trutnov/prodej-stavebni-parcely-1-948-m2-3910682.html"
-   },
-   {
-    "t": "Volanov 1524 m²",
-    "ppm2": 2100,
-    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/trutnov/prodej-stavebni-parcely-1-524-m2-3587921.html"
-   },
-   {
-    "t": "Trutnov 1927 m²",
-    "ppm2": 2330,
-    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/trutnov/prodej-stavebni-parcely-1-927-m2-3441126.html"
-   },
-   {
-    "t": "Dolní Předměstí 1469 m²",
-    "ppm2": 2376,
-    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/trutnov/prodej-stavebni-parcely-1-469-m2-nad-poricskou-3318910.html"
+    "t": "Volanov 1894 m²",
+    "ppm2": 2746,
+    "url": "https://vychodo.ceskereality.cz/prodej/pozemky/stavebni-parcely/trutnov/prodej-stavebni-parcely-1-894-m2-3797579.html"
    },
    {
     "t": "Voletiny 2437 m²",
     "ppm2": 2421,
-    "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/trutnov/prodej-stavebni-parcely-2-437-m2-3741633.html"
+    "url": "https://vychodo.ceskereality.cz/prodej/pozemky/stavebni-parcely/trutnov/prodej-stavebni-parcely-2-437-m2-3741633.html"
+   },
+   {
+    "t": "Volanov 1478 m²",
+    "ppm2": 1793,
+    "url": "https://vychodo.ceskereality.cz/prodej/pozemky/stavebni-parcely/trutnov/prodej-stavebni-parcely-1-478-m2-u-druzstva-3935442.html"
+   },
+   {
+    "t": "Bohuslavice 2372 m²",
+    "ppm2": 843,
+    "url": "https://vychodo.ceskereality.cz/prodej/pozemky/stavebni-parcely/trutnov/prodej-stavebni-parcely-2-372-m2-3904385.html"
+   },
+   {
+    "t": "Vnitřní Město 2383 m²",
+    "ppm2": 1500,
+    "url": "https://vychodo.ceskereality.cz/prodej/pozemky/stavebni-parcely/trutnov/prodej-stavebni-parcely-2-383-m2-3916097.html"
+   },
+   {
+    "t": "Vnitřní Město 2394 m²",
+    "ppm2": 1250,
+    "url": "https://vychodo.ceskereality.cz/prodej/pozemky/stavebni-parcely/trutnov/prodej-stavebni-parcely-2-394-m2-3914939.html"
+   },
+   {
+    "t": "Bohuslavice 1948 m²",
+    "ppm2": 1800,
+    "url": "https://vychodo.ceskereality.cz/prodej/pozemky/stavebni-parcely/trutnov/prodej-stavebni-parcely-1-948-m2-3910682.html"
+   },
+   {
+    "t": "Horní Staré Město 1424 m²",
+    "ppm2": 3336,
+    "url": "https://vychodo.ceskereality.cz/prodej/pozemky/stavebni-parcely/trutnov/prodej-stavebni-parcely-1-424-m2-serikova-3740341.html"
+   },
+   {
+    "t": "Babí 1927 m²",
+    "ppm2": 2330,
+    "url": "https://vychodo.ceskereality.cz/prodej/pozemky/stavebni-parcely/trutnov/prodej-stavebni-parcely-1-927-m2-3441126.html"
+   },
+   {
+    "t": "Dolní Předměstí 1469 m²",
+    "ppm2": 2376,
+    "url": "https://vychodo.ceskereality.cz/prodej/pozemky/stavebni-parcely/trutnov/prodej-stavebni-parcely-1-469-m2-nad-poricskou-3318910.html"
    }
   ],
-  "discount": 0.877,
+  "discount": 0.867,
   "score": 25,
   "tags": [
    "levne"
   ],
   "why": "Plocha BV v Libči za 239 Kč/m² – extrémně levně, ale bez příjezdové cesty, v sesuvném území (nutný geologický průzkum) a bez plynu; spíš spekulace.",
   "firstSeen": "2026-10-21",
-  "lastSeen": "2026-10-28",
+  "lastSeen": "2026-10-29",
   "priceHistory": [
    {
     "d": "2026-10-21",
@@ -951,7 +951,7 @@
   ],
   "why": "Plotiště za 6 000 Kč/m² se sítěmi na hranici (plyn, elektřina, kanalizace); riziko: zastavitelná jen přední část pozemku, tj. reálně 1 RD.",
   "firstSeen": "2026-10-21",
-  "lastSeen": "2026-10-28",
+  "lastSeen": "2026-10-29",
   "priceHistory": [
    {
     "d": "2026-10-21",
