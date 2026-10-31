@@ -467,7 +467,7 @@
   ],
   "why": "Stavební parcela přímo v Pardubicích (Lány na Důlku) za ~3 950 Kč/m², zhruba polovina mediánu města; sítě na hranici; rizika: ÚP plocha SK (smíšená komerční), příjezd a dělitelnost neuvedeny.",
   "firstSeen": "2026-10-28",
-  "lastSeen": "2026-10-30",
+  "lastSeen": "2026-10-31",
   "priceHistory": [
    {
     "d": "2026-10-28",
@@ -603,7 +603,7 @@
   ],
   "why": "Parcela v Sezemicích hned u Pardubic za ~2 600–2 700 Kč/m², zhruba poloviční cena proti okolí; riziko: detail inzerátu se nepodařilo ověřit (sítě, příjezd, záplavy u Loučné), obdobná parcela 1 150 m² ve Veské na ceskereality.cz byla stažena.",
   "firstSeen": "2026-10-26",
-  "lastSeen": "2026-10-30",
+  "lastSeen": "2026-10-31",
   "priceHistory": [
    {
     "d": "2026-10-26",
@@ -688,7 +688,7 @@
   ],
   "why": "Parcela v Sezemicích hned u Pardubic za ~2 600–2 700 Kč/m², zhruba poloviční cena proti okolí; riziko: detail inzerátu se nepodařilo ověřit (sítě, příjezd, záplavy u Loučné), obdobná parcela 1 150 m² ve Veské na ceskereality.cz byla stažena.",
   "firstSeen": "2026-10-26",
-  "lastSeen": "2026-10-30",
+  "lastSeen": "2026-10-31",
   "priceHistory": [
    {
     "d": "2026-10-26",
@@ -864,7 +864,7 @@
   ],
   "why": "Plocha BV v Libči za 239 Kč/m² – extrémně levně, ale bez příjezdové cesty, v sesuvném území (nutný geologický průzkum) a bez plynu; spíš spekulace.",
   "firstSeen": "2026-10-21",
-  "lastSeen": "2026-10-30",
+  "lastSeen": "2026-10-31",
   "priceHistory": [
    {
     "d": "2026-10-21",
@@ -881,7 +881,12 @@
   "id": "cr-3579755",
   "src": "ceskereality.cz",
   "url": "https://www.ceskereality.cz/prodej/pozemky/stavebni-parcely/hradec-kralove/prodej-stavebni-parcely-1-384-m2-3579755.html",
-  "alt": [],
+  "alt": [
+   {
+    "src": "realitymix.cz",
+    "url": "https://realitymix.cz/detail/hradec-kralove/prodej-pozemku-k-vystavbe-rodinneho-domu-plotiste-nad-labem-hradec-kralove-8442759.html"
+   }
+  ],
   "title": "Stavební pozemek 1 384 m² – Hradec Králové, Plotiště nad Labem",
   "type": "pozemek",
   "region": "Královéhradecký",
@@ -955,7 +960,7 @@
   ],
   "why": "Plotiště za 6 000 Kč/m² se sítěmi na hranici (plyn, elektřina, kanalizace); riziko: zastavitelná jen přední část pozemku, tj. reálně 1 RD.",
   "firstSeen": "2026-10-21",
-  "lastSeen": "2026-10-30",
+  "lastSeen": "2026-10-31",
   "priceHistory": [
    {
     "d": "2026-10-21",
